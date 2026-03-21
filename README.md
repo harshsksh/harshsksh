@@ -37,7 +37,7 @@ currently_building: Scalable apps & AI-powered systems
 
 ### 🔥 Daily Submission Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harshsksh/leetcode-heatmap/main/heatmap.png" />
+  <img src="./heatmap.png" />
 </p>
 
 <p align="center">
