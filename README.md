@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Harsh Yadav</h1>
-<h3 align="center">Competitive Programmer | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">Competitive Programmer | Full stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+Explorer;Problem+Solver;Always+Learning" />
