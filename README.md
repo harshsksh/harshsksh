@@ -35,11 +35,6 @@ currently_building: Scalable apps & AI-powered systems
   <img src="https://leetcard.jacoblin.cool/harsshh_3?theme=dark&font=Baloo&ext=contest" />
 </p>
 
-### 📊 Codeforces Overview
-<p align="center">
-  <img src="https://codeforces.com/profile/erxhr?theme=dark&font=Baloo&ext=contest" />
-</p>
-
 ### 🔥 Daily Submission Heatmap
 <p align="center">
   <img src="./heatmap.png" />
@@ -47,6 +42,9 @@ currently_building: Scalable apps & AI-powered systems
 
 <p align="center">
   🔗 <a href="https://leetcode.com/u/harsshh_3/">Visit My LeetCode Profile</a>
+</p>
+<p align="center">
+  🔗 <a href="https://codeforces.com/profile/erxhr">Visit My Codeforces Profile</a>
 </p>
 
 ---
