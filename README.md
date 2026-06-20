@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey, I'm Harsh Yadav</h1>
-<h3 align="center">Competitive Programmer | Full stack Developer | AI Enthusiast</h3>
+<h3 align="center">Competitive Programmer | Fullstack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;AI+Explorer;Problem+Solver;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;AI+Explorer;Problem+Solver;Always+Learning" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ currently_building: Scalable apps & AI-powered systems
 </pre>
 
 - 🏆 Competitive Programmer (LeetCode, CodeChef, Codeforces)  
-- 💻 Backend Developer building production-ready applications  
+- 💻 Fullstack Developer building production-ready applications  
 - 🤖 Exploring Generative AI, LLMs & distributed systems  
 - 🚀 Solved 750+ DSA problems (LeetCode 1600 | CodeChef Rank 50)  
 
@@ -33,6 +33,11 @@ currently_building: Scalable apps & AI-powered systems
 ### 📊 LeetCode Overview
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/harsshh_3?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+### 📊 Codeforces Overview
+<p align="center">
+  <img src="https://codeforces.com/profile/erxhr?theme=dark&font=Baloo&ext=contest" />
 </p>
 
 ### 🔥 Daily Submission Heatmap
